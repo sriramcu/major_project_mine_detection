@@ -1,1 +1,1 @@
-An implementation of [Timothy Cogan et al research paper on Anatomy Detection](https://onedrive.live.com/?cid=ABCCEE359FD402B5&id=ABCCEE359FD402B5%21236663&parId=ABCCEE359FD402B5%21234981&o=OneUp). The methodology and results of this work is described [in this powerpoint presentation](https://1drv.ms/p/s!ArUC1J817syrgb-zcAjlJHwQzDvCaPw?e=wiPFBb).
+
